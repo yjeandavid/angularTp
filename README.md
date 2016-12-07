@@ -2,7 +2,7 @@
 TP du cours AngularJs
 
 # Initialisation du projet
-	## Sur Windows
+## Sur Windows
 	Pour cela lancer install.bat
-	## Sur Linus
+## Sur Linus
 	Pour cela lancer install.sh
